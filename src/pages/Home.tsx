@@ -1,6 +1,7 @@
 import './home.scss'
+import headerBg from '../images/header.png'
 export const Home = ()=>{
   return <div className={"home"}>
-    <div className="x"></div>
+    <header style={{backgroundImage:`url(${headerBg})`}}></header>
   </div>
 }

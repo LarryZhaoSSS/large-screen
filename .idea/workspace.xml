@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89fd6b56-b69c-40d9-8c96-f72fa5a7df87" name="Default Changelist" comment="set pageWith and pageSize">
-      <change afterPath="$PROJECT_DIR$/src/pages/home.scss" afterDir="false" />
+    <list default="true" id="89fd6b56-b69c-40d9-8c96-f72fa5a7df87" name="Default Changelist" comment="function px()">
+      <change afterPath="$PROJECT_DIR$/src/custom.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/header.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/_helper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/_helper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,11 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619265599989</updated>
-      <workItem from="1619265605818" duration="3583000" />
+      <workItem from="1619265605818" duration="4278000" />
     </task>
     <task id="LOCAL-00001" summary="set pageWith and pageSize">
       <created>1619268711965</created>
@@ -50,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619268711965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="function px()">
+      <created>1619269916258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619269916258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set pageWith and pageSize" />
-    <option name="LAST_COMMIT_MESSAGE" value="set pageWith and pageSize" />
+    <MESSAGE value="function px()" />
+    <option name="LAST_COMMIT_MESSAGE" value="function px()" />
   </component>
 </project>
