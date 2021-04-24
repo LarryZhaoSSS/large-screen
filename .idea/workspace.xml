@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89fd6b56-b69c-40d9-8c96-f72fa5a7df87" name="Default Changelist" comment="set pageWith and pageSize" />
+    <list default="true" id="89fd6b56-b69c-40d9-8c96-f72fa5a7df87" name="Default Changelist" comment="set pageWith and pageSize">
+      <change afterPath="$PROJECT_DIR$/src/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/_helper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/_helper.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619265599989</updated>
-      <workItem from="1619265605818" duration="2771000" />
+      <workItem from="1619265605818" duration="3583000" />
     </task>
     <task id="LOCAL-00001" summary="set pageWith and pageSize">
       <created>1619268711965</created>
