@@ -3,7 +3,6 @@
 <head>
   <meta charset="utf-8"/>
   <link rel="icon" href="%PUBLIC_URL%/favicon.ico"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="theme-color" content="#000000"/>
   <meta
     name="description"
@@ -24,18 +23,17 @@
     work correctly both with client-side routing and a non-root public URL.
     Learn how to configure a non-root public URL by running `npm run build`.
   -->
-  <title>React App</title>
+  <meta name="viewport"
+        content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+  <title>大屏可视化项目</title>
   <script>
     const clientWidth = document.documentElement.clientWidth
     const clientHeight = document.documentElement.clientHeight
-    let pageWidth
-    pageWidth = clientWidth / clientHeight > 16 / 9 ? clientHeight * (16 / 9) : clientWidth
+    window.pageWidth = clientWidth / clientHeight > 16 / 9 ? clientHeight * (16 / 9) : clientWidth
     const pageHeight = pageWidth / (16 / 9)
-    const string = `<style>
-           html {
-            font-size=${pageWidth / 100}px;
-           }
-</style>`
+    const string = `<style>html{
+      font-size: ${pageWidth / 100}px
+    }</style>`
     document.write(string)
   </script>
 </head>
@@ -43,7 +41,7 @@
 <noscript>You need to enable JavaScript to run this app.</noscript>
 <div id="root"></div>
 <script>
-  root.style.width = pageWidth  + 'px'
+  root.style.width = pageWidth + 'px'
   root.style.height = pageHeight + 'px'
   root.style.marginTop = (clientHeight - pageHeight) / 2 + 'px'
 </script>
