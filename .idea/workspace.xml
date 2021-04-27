@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89fd6b56-b69c-40d9-8c96-f72fa5a7df87" name="Default Changelist" comment="function px()">
+    <list default="true" id="89fd6b56-b69c-40d9-8c96-f72fa5a7df87" name="Default Changelist" comment="add gap">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619265599989</updated>
       <workItem from="1619265605818" duration="4575000" />
-      <workItem from="1619443147435" duration="2009000" />
+      <workItem from="1619443147435" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="set pageWith and pageSize">
       <created>1619268711965</created>
@@ -60,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619269916258</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add gap">
+      <created>1619445890195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619445890196</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set pageWith and pageSize" />
     <MESSAGE value="function px()" />
-    <option name="LAST_COMMIT_MESSAGE" value="function px()" />
+    <MESSAGE value="add gap" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gap" />
   </component>
 </project>
